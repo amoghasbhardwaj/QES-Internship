@@ -1,5 +1,4 @@
-# QES
-Quoara For Engineers (Internship Project)
+# Quoara For Engineers (Internship Project)
 
 
 STEPS TO RUN THE PROGRAM
@@ -9,3 +8,5 @@ STEPS TO RUN THE PROGRAM
 4. now CD C:\..\..\..\quoara for engineers\QES\stackprj 
 5. type python manage.py runserver
 6. copy paste the HTTP 
+
+For More Information regarding Project refer QES Report.pdf
